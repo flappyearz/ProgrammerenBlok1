@@ -1,1 +1,0 @@
-snaperniksvan = 1
